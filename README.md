@@ -21,8 +21,9 @@ Repository for contributing Hacktoberfest 2022
 ### Clone Project
 
 ```
-git clone https://github.com/BaraAksayeth25/hacktoberfest-2022.git
+git clone https://github.com/{ username kamu }/hacktoberfest-2019.git
 
+cd hacktoberfest-2019
 ```
 
 ### Create new Branch
@@ -30,6 +31,22 @@ git clone https://github.com/BaraAksayeth25/hacktoberfest-2022.git
 ```
 git checkout -b <your-branch>
 ```
+
+### Tambahkan kontibusi kamu
+
+- Create new folder with your username as folder name, and fill with your project
+
+### Commit dan Push
+
+```
+git add .
+git commit -m "your-commit-msg"
+git push origin my-new-branch
+```
+
+Create Pull Request to main branch via github website
+
+and last, don't forget to write your github username to contributor list below
 
 ## :trollface: Contributor
 - [@BaraAksayeth25](https://github.com/BaraAksayeth25)
