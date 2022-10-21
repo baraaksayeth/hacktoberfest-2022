@@ -31,7 +31,7 @@ git clone https://github.com/BaraAksayeth25/hacktoberfest-2022.git
 git checkout -b <your-branch>
 ```
 
-## :trollface: Kontributor
+## :trollface: Contributor
 - [@BaraAksayeth25](https://github.com/BaraAksayeth25)
 
 
