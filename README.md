@@ -16,7 +16,7 @@ Repository for contributing Hacktoberfest 2022
 
 4. Do Pull Request
 
-5. Don't forget to :star2: this repo and put your Username on Kontributor section
+5. Don't forget to :star2: this repo and put your Username on Contributor section
 
 ### Clone Project
 
